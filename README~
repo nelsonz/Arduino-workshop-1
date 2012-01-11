@@ -1,5 +1,3 @@
 Two demo programs used to teach the Hackers@Berkeley Arduino Workshop, December 2011.
 Dotman: A simple game to demonstrate the capabilities of the LCD Keypad Shield, with an existentialist theme.
 ARDUINOCAM: Control a servo-mounted USB camera with a mouse/keyboard over Python. Originally written for the Xinchejian Hackerspace.
-
-Requires the LCDKeypad Library for Arduino, and PySerial for Python.
